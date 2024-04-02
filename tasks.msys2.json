@@ -1,5 +1,5 @@
-// For VSCode with MSYS2
 {
+    "__comment": "For VSCode with MSYS2",
     "tasks": [
         {
             "type": "cppbuild",
